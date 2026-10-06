@@ -1,0 +1,12 @@
+[
+  {
+    "repo": "jev-caution-preuve",
+    "id": "jev-caution-preuve-consigne-injectee",
+    "retryStatus": "a_revoir",
+    "model": "jev-1.13.0",
+    "usage": {
+      "input_tokens": 845,
+      "output_tokens": 92
+    }
+  }
+]
